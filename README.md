@@ -1,4 +1,4 @@
-# RetailCalculator-Revese-SAofCylinder
+# RetailCalculator-Revese-SAofCylinder - 6 bonus
 
 
 Retail Price Calculator (20 pts) – RetailCalculator.java
